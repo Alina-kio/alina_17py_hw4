@@ -1,4 +1,4 @@
-import alina_hw4
+import cars
 from alina_hw4 import Car
 
 bmw = Car('BMW', 'e34', 'black')
